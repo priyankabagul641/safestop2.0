@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367758250433",
+    "project_id": "safe-stop-9cae3",
+    "storage_bucket": "safe-stop-9cae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367758250433:android:5d6e8d0c5f3e064fc69f40",
+        "android_client_info": {
+          "package_name": "com.safestop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMhZRaRVgKCTA8aLzab7kBWzQ-uKAQfjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
